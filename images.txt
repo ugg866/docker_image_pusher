@@ -5,3 +5,6 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ollama/ollama
+mysql:5.7
+chainmakerofficial/management-backend:v3.0.0
+chainmakerofficial/management-web:v3.0.0
