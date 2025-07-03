@@ -1,2 +1,3 @@
+chainmakerofficial/management-web:v3.0.0
 chainmakerofficial/management-backend:v3.0.0
 mysql:5.7
